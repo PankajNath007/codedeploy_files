@@ -2,7 +2,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
+  - source: /codedeploy_files/index.html
     destination: /var/www/block-chain360.com/public_html/
 hooks:
   BeforeInstall:
